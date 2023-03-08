@@ -1,0 +1,20 @@
+.nav-link{
+    color: #f9bf1e;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 20px;
+}
+body{
+    background-size: 40%;
+    background-image: url("portal.png");
+    background-position:0 center; /*respecto a body*/
+    background-repeat: no-repeat;
+    height: 100%;
+  }
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
